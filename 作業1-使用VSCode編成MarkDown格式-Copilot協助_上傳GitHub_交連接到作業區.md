@@ -1,10 +1,5 @@
 # 作業1
 
-## A. 使用VSCode將以下內容編成MarkDown格式（使用Copilot協助），再上傳GitHub
-- 包含一個 `.txt` 及一個 `.ppt` 檔案
-
-## B. 使用VSCode寫好自己的履歷表（或自傳也OK），編成MarkDown格式（使用Copilot協助），再上傳GitHub
-- 繳交（GitHub上的連結）到作業區
 
 ---
 
